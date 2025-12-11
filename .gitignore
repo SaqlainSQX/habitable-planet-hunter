@@ -1,0 +1,9 @@
+# --- System Junk ---
+__pycache__/
+*.ipynb_checkpoints/
+
+# --- Virtual Environment (MUST ADD THIS) ---
+.venv/
+venv/
+
+"G:\habitable_planet_hunter\data\phl_exoplanet_catalog_2019.csv"
